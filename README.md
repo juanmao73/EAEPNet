@@ -4,11 +4,6 @@ This repository is the official PyTorch implementation of our paper "EAEPNet: Mu
 
 ---
 
-## 📌 Introduction
-Here you can briefly introduce your network architecture or copy the abstract of your paper. 
-(这里简要写一下你的网络简介或者摘要。例如：EAEPNet is a novel multi-modal 3D object detection framework that integrates LiDAR point clouds and camera images...)
-
----
 
 ## 🛠️ Installation
 
