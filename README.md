@@ -29,7 +29,7 @@ ninja
 fire
 numba
 easydict
-### 2. Data Preparation
+##  Data Preparation
 Please download the datasets and organize them as follows:
 EPNet
 ├── data
