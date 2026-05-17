@@ -33,6 +33,7 @@ ninja
 fire
 numba
 easydict
+```
 
 ## 🛠️ Installation
 
