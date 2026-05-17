@@ -34,30 +34,5 @@ fire
 numba
 easydict
 
+## 🛠️ Installation
 
-EPNet
-├── data
-│   └── KITTI
-│       ├── ImageSets
-│       └── object
-│           ├── training
-│           │   └── calib & velodyne & label_2 & image_2 & (optional: planes)
-│           └── testing
-│               └── calib & velodyne & image_2
-├── lib
-├── pointnet2_lib
-└── tools
-##  Data Preparation
-Please download the datasets and organize them as follows:
-EPNet
-├── data
-│   ├── KITTI
-│   │   ├── ImageSets
-│   │   ├── object
-│   │   │   ├──training
-│   │   │      ├──calib & velodyne & label_2 & image_2 & (optional: planes)
-│   │   │   ├──testing
-│   │   │      ├──calib & velodyne & image_2
-├── lib
-├── pointnet2_lib
-├── tools
