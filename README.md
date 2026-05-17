@@ -14,10 +14,10 @@ The environment has been tested under the following settings:
 * **PyTorch**: 1.0+
 
 ### 2. Install Dependencies
+
 You can install the required packages via `requirements.txt`:
 
 ```bash
-
 opencv-python
 shapely
 Cython
@@ -33,7 +33,7 @@ ninja
 fire
 numba
 easydict
----
+
 
 EPNet
 ├── data
