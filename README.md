@@ -5,7 +5,7 @@ This repository is the official PyTorch implementation of our paper "EAEPNet: Mu
 ---
 
 
-## 🛠️ Installation
+##  Installation
 
 ### 1. Environment Setup
 The environment has been tested under the following settings:
@@ -35,5 +35,22 @@ numba
 easydict
 ```
 
-## 🛠️ Installation
+##  Data Preparation
+
+Please download the datasets and organize them as follows:
+
+```bash
+EPNet
+├── data
+│   ├── KITTI
+│   │   ├── ImageSets
+│   │   ├── object
+│   │   │   ├──training
+│   │   │      ├──calib & velodyne & label_2 & image_2 & (optional: planes)
+│   │   │   ├──testing
+│   │   │      ├──calib & velodyne & image_2
+├── lib
+├── pointnet2_lib
+├── tools
+```
 
