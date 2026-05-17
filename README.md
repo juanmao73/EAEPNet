@@ -4,6 +4,21 @@ This repository is the official PyTorch implementation of our paper "EAEPNet: Mu
 
 ---
 
+
+## 🛠️ Installation
+
+### 1. Environment Setup
+The environment has been tested under the following settings:
+* **OS**: Linux (tested on Ubuntu 16.04)
+* **Python**: 3.6+
+* **PyTorch**: 1.0+
+
+### 2. Install Dependencies
+You can install the required packages via `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+
 ##  Installation
 
 ```bash
